@@ -155,3 +155,6 @@ cython_debug/
 *.xlsx
 *.xls
 *.csv
+*.html
+
+ArchiveCode/
